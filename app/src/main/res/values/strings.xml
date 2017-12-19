@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DragRecyclerView</string>
+    <string name="value">这是一个随机数：%d</string>
+</resources>
